@@ -5,7 +5,7 @@
 	
 	2.	Ինչու եք վորոշել զբաղվել ծրագրավորումով:
 	
-	3.	Ինչ data type-եր գիտեք և ինչ խմբերի կարող եք բաժանել:
+	3.      Ինչ data type-եր գիտեք և ինչ խմբերի կարող եք բաժանել:
 	
 		3.1 tuple-ի ու list-ի տարբերությունը:
 			
@@ -115,7 +115,7 @@
 		print(next(x))
 		print(next(x))
 		
-	10. functional programing
+	10.     functional programing
 	
 		10.1 Ինչ առավելություններ ունի functional programing-ը
 		
@@ -141,14 +141,14 @@
 		
 		11.3 Ինչպես կարող ենք օգտագոծել decorator առանց @-ի
 		
-	12. regexp
+	12.     regexp
 	
 		12.1 Ինչ է regex-ը և օգտագործվում է արդյոք միայն python-ում 
 		
 		12.2 Նշեք regex-ի ինչ operator-ներ գիտեք
 
 			
-	13. pep
+	13.     pep
 		
 		13.1 Ինչ է pep-ը:
 		
