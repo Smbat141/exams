@@ -54,11 +54,11 @@
 		
 		5.2 Ինչ կստանանք հետեվյալ արտահայտություց
 		
-			users = ["Lilit", "Aren", "Janna", "Jarvis"]
+		    users = ["Lilit", "Aren", "Janna", "Jarvis"]
 			
-			for user in users:
-				users.pop()
-			print(users)
+		    for user in users:
+			users.pop()
+                    print(users)
 		
 		5.3 for with else
 		
@@ -106,14 +106,14 @@
 		
 		9.3 Ինչ առավելություն ունի generator-ը սովորական for-ի նկատմամբ:
 
-		def generator():
-			yield 1
+		    def generator():
+		        yield 1
 			yield 2
 			yield 3
 		
-		x = generator()
-		print(next(x))
-		print(next(x))
+		    x = generator()
+		    print(next(x))
+		    print(next(x))
 		
 	10.     functional programing
 	
@@ -127,17 +127,17 @@
 		
 		11.2 Ինչ տարբերություն կա տրված decorator-ների մեյ:
 
-			def decorator_1(func):
-				def wrapper():
-					print('code from decorator')
-					func()
-				return wrapper
+		     def decorator_1(func):
+		         def wrapper():
+			     print('code from decorator')
+			     func()
+			     return wrapper
 					
-			def decorator_1(func):
-				def wrapper():
-					func()
-					print('code from decorator')
-				return wrapper
+	             def decorator_1(func):
+			 def wrapper():
+			     func()
+			     print('code from decorator')
+			 return wrapper
 		
 		11.3 Ինչպես կարող ենք օգտագոծել decorator առանց @-ի
 		
