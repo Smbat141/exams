@@ -1,4 +1,5 @@
 # Exam
+
 ```
 Տեսական հարցեր
 	1.	Կարճ պատմեք ձեր մասին, ինչով եք զբաղվել և հիմա ինչով եք զբաղվում:
@@ -64,12 +65,13 @@
 		
 		
 	6.	functions
-		
 		6.1 Ինչ առավելություններ են տալիս մեզ function-ները:
 		
-		6.2 Ինչ տեսակի parameter-ներ կան և ինչ հերթականությամբ է պետք դրանք հայտարարել
+		6.2 function scope, global variables
 		
-		6.3 def login():		
+		6.3 Ինչ տեսակի parameter-ներ կան և ինչ հերթականությամբ է պետք դրանք հայտարարել
+		
+		6.4 def login():		
 			email = 'test@gmail.com'
 			
                         def local_func(name):
@@ -79,7 +81,9 @@
 		    x = login()
 			
 		    x('Vardan')
-			
+		
+		6.5 Recursion	
+		
 	7.	module
 		
 		7.1 package-ի և module-ի տարբերությունը
