@@ -65,6 +65,7 @@
 		
 		
 	6.	functions
+		
 		6.1 Ինչ առավելություններ են տալիս մեզ function-ները:
 		
 		6.2 function scope, global variables
