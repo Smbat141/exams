@@ -120,11 +120,11 @@
 		    print(next(x))
 		    print(next(x))
 		
-	10.     functional programing
+	10.     functional programming
 	
-		10.1 Ինչ առավելություններ ունի functional programing-ը
+		10.1 Ինչ առավելություններ ունի functional programming-ը
 		
-		10.2 Ինչ function-ներ գիտեք functional programing-ի համար
+		10.2 Ինչ function-ներ գիտեք functional programming-ի համար
 		
 	11.	decorators
 		
