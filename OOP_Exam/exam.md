@@ -34,7 +34,7 @@
 	
 	10.	Ինչ magic method-ներ գիտեք:
 	
-	11.	contruct և destrucner:
+	11.	constructor և destructor:
 	
 	12.	old style և new style class:
 	
