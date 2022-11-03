@@ -38,17 +38,17 @@
 	
 	12.	old style և new style class:
 	
-	13. Ինչ է multiple inheritance-ը և ինչ ալգորիթմով է աշխատում:
+	13.	Ինչ է multiple inheritance-ը և ինչ ալգորիթմով է աշխատում:
 	
-	14. getters, setters, property, descriptor:
+	14.	getters, setters, property, descriptor:
 	
-	15. decorator:
+	15.	decorator:
 	
-	16. Նկարագրել ինչպես է աշխատում context manager-ը:
+	16.	Նկարագրել ինչպես է աշխատում context manager-ը:
 	
 	17.	Ինչես կարող ենք գրել custom Exception
 	
-	18. metaclass
+	18.	metaclass
 		
 		18.1 Երբ է աշխատում metaclass-ը:
 		
