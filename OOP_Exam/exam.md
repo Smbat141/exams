@@ -58,12 +58,11 @@
 
 Խնդիրներ
 	
-	1.	Գրել class որը objects_count attribute-ով ցույց կտա թե քանի object կա ստեղծած class-ից տվյալ պահին:
+        1.  Գրել class որը objects_count attribute-ով ցույց կտա թե քանի object կա ստեղծած class-ից տվյալ պահին:
 	
-	2.	Ունենք application որտեղ կարող ենք ավելացնել նկար .jpg ֆորմատով:
-		Նկարը convert անել PDF, Exel կամ Word ֆորմատի:
-		Նկարը convert անելիս ամեն ֆորմատի համար օգտագործվում են լրիվ տարբեր method-ներ:
-		Ինչ class կամ class-ներ կօգտագործեք տվյալ application-ը ստեղծելու համար:
+        2.  Ունենք application որտեղ կարող ենք ավելացնել նկար .jpg ֆորմատով և Նկարը convert անել PDF, Exel կամ Word ֆորմատի:
+            convertor-ները convert անելու համար օգտագործում են լրիվ տարբեր ալգորիթմներ:
+            Ինչ class կամ class-ներ կօգտագործեք տվյալ application-ը ստեղծելու համար:
 		
 	
 ```
